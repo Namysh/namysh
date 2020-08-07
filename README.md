@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to my Github account, I'm namysh, a computer science student.
+
+Fell free to contact me !
 
 <!--
 **Namysh/namysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
